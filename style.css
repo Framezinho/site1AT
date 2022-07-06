@@ -1,0 +1,35 @@
+#um1 {
+    margin-left: 10%;
+ }
+  #um {
+    margin-left: 10%;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 30%;
+    height: 6%;
+  
+ }
+#dois2 {
+    margin-left: 10%;
+}
+ #dois {
+    margin-left: 10%;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 30%;
+    height: 6%;
+}
+h1 {
+    margin-left: 40%;
+}
+h2 {
+    margin-left: 10%;
+}
+img {
+    margin-left: 42%;
+}
+header {
+    background-color: aquamarine;
+}
