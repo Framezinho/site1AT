@@ -1,3 +1,7 @@
+* {
+    padding: 0;
+    margin: 0;
+}
 #um1 {
     margin-left: 10%;
  }
@@ -27,9 +31,20 @@ h1 {
 h2 {
     margin-left: 10%;
 }
+h3 {
+    padding-top: 2%;
+    margin-left: 10%;
+}
 img {
     margin-left: 42%;
+
 }
-header {
-    background-color: aquamarine;
+#botam {
+    margin-left: 10%;
+    height: 30px;
+    width: 20%;
+    background-color: rgb(73, 73, 196);
+    color: white;
+    border-style: none; 
+    margin-top: 20px;
 }
